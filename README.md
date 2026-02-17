@@ -81,6 +81,10 @@ Add AI chatbot for student interaction.
 
 Implement predictive analytics for identifying at-risk students.
 
+
+why this matters 
+-> helps coolege to maintain and keep a track of students easily 
+
 ---
 
 📜 License
